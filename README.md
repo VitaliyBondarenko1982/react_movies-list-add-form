@@ -1,10 +1,11 @@
 # Movies list - Add Form
+[DEMO LINK](https://VitaliyBondarenko1982.github.io/react_movies-list-add-form/)
 
 You have the `App` with the `MoviesList` and `NewMovie` form containing ready
 to use `TextField` components. Learn how it works and implement an ability to
 add movies from [IMDB](https://www.imdb.com/).
 
-If you want to test your page you can get first image from a [movie page](https://www.imdb.com/title/tt1312171) using `DevTools` -> `Network` -> `Img` 
+If you want to test your page you can get first image from a [movie page](https://www.imdb.com/title/tt1312171) using `DevTools` -> `Network` -> `Img`
 
 > Here is [the demo page](https://mate-academy.github.io/react_movies-list-add-form/)
 
